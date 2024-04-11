@@ -1,6 +1,6 @@
-# VALIDACIÓN DE UN SENSOR WIRELESS PARA MONITOREO CONTINUO DE PH DE SALIVA ARTIFICIAL
+# SENSOR INTRAORAL: Validación de un Sistema para Monitoreo Continuo de pH, Temperatura y Concentración de Calcio en Saliva Artificial
 
-¡Bienvenido al repositorio del proyecto de validación de sensor wireless para monitoreo continuo de pH de saliva artificial! Aquí encontrarás toda la información relacionada con el desarrollo y los resultados de este proyecto.
+¡Bienvenido al repositorio del proyecto de validación del sensor intraoral para monitoreo continuo de pH, temperatura y concentración de calcio en saliva artificial! Aquí encontrarás toda la información relacionada con el desarrollo y los resultados de este proyecto.
 
 Este proyecto se está realizando en la Universidad Peruana Cayetano Heredia, específicamente en las Facultades de Medicina, de Estomatología y de Enfermería, durante el año 2023.
 
@@ -13,17 +13,15 @@ Este proyecto se está realizando en la Universidad Peruana Cayetano Heredia, es
 ---
 
 ## Resumen
-La saliva es una secreción exocrina de las glándulas salivales con utilidad diagnóstica para detectar enfermedades sistémicas. Este proyecto tiene como objetivo validar un sensor wireless para monitoreo continuo de pH de saliva artificial. Se utilizará la metodología VDI 2225 para el desarrollo del dispositivo, el cual estará basado en tecnología ISFET. Se realizarán pruebas para determinar la precisión y exactitud del sensor en la medición de pH a diferentes valores y temperaturas.
+La saliva es una secreción exocrina de las glándulas salivales con utilidad diagnóstica para detectar enfermedades sistémicas. Este proyecto tiene como objetivo validar un sistema intraoral para monitoreo continuo de pH, temperatura y concentración de calcio en saliva artificial. Se utilizará la metodología VDI 2225 para el desarrollo del dispositivo, el cual estará basado en tecnología ISFET. Se realizarán pruebas para determinar la precisión y exactitud del sistema en la medición de pH, temperatura y concentración de calcio a diferentes valores y condiciones.
 
 ## Contenido del Repositorio
-- **Documento de Especificación del Producto**: Descripción detallada del dispositivo y sus objetivos.
-- **Lista de Requerimientos**: Requisitos funcionales y no funcionales del dispositivo.
+- **Documento de Especificación del Producto**: Descripción detallada del sistema y sus objetivos.
+- **Lista de Requerimientos**: Requisitos funcionales y no funcionales del sistema.
 - **Estado del Arte**: Revisión de la literatura y tecnologías relacionadas.
 - **Plan de Desarrollo**: Cronograma de actividades y recursos.
-- **Documentación Técnica**: Detalles del diseño y funcionamiento del dispositivo.
+- **Documentación Técnica**: Detalles del diseño y funcionamiento del sistema.
 - **Resultados de Pruebas y Validación**: Informes y datos obtenidos durante las pruebas.
-- **Modelos CAD**: Archivos de diseño del dispositivo (si aplica).
+- **Modelos CAD**: Archivos de diseño del sistema (si aplica).
 - **Código Fuente**: Si hay componentes de software en el proyecto.
 - **Referencias Bibliográficas**: Lista de referencias citadas.
-
-

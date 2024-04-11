@@ -16,7 +16,7 @@ Este proyecto se está realizando en la Universidad Peruana Cayetano Heredia, es
 La saliva es una secreción exocrina de las glándulas salivales con utilidad diagnóstica para detectar enfermedades sistémicas. Este proyecto tiene como objetivo validar un sistema intraoral para monitoreo continuo de pH, temperatura y concentración de calcio en saliva artificial. Se utilizará la metodología VDI 2225 para el desarrollo del dispositivo, el cual estará basado en tecnología ISFET. Se realizarán pruebas para determinar la precisión y exactitud del sistema en la medición de pH, temperatura y concentración de calcio a diferentes valores y condiciones.
 
 ## Contenido del Repositorio
-- **Documento de Especificación del Producto**: Descripción detallada del sistema y sus objetivos.
+- **Especificaciones del Producto**: Descripción detallada del sistema y sus objetivos.
 - **Lista de Requerimientos**: Requisitos funcionales y no funcionales del sistema.
 - **Estado del Arte**: Revisión de la literatura y tecnologías relacionadas.
 - **Plan de Desarrollo**: Cronograma de actividades y recursos.

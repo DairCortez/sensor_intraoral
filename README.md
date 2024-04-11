@@ -2,7 +2,7 @@
 
 ¡Bienvenido al repositorio del proyecto de validación del sensor intraoral para monitoreo continuo de pH, temperatura y concentración de calcio en saliva artificial! Aquí encontrarás toda la información relacionada con el desarrollo y los resultados de este proyecto.
 
-Este proyecto se está realizando en la Universidad Peruana Cayetano Heredia, específicamente en las Facultades de Medicina, de Estomatología y de Enfermería, durante el año 2023.
+Este proyecto se está realizando en la Universidad Peruana Cayetano Heredia, específicamente en las Facultades de Medicina, de Estomatología y de Enfermería, durante el año 2024.
 
 ### Autores:
 - CD Juan Jairo Pinedo Portugal – Estudiante Maestría en Estomatología
@@ -23,5 +23,5 @@ La saliva es una secreción exocrina de las glándulas salivales con utilidad di
 - **Documentación Técnica**: Detalles del diseño y funcionamiento del sistema.
 - **Resultados de Pruebas y Validación**: Informes y datos obtenidos durante las pruebas.
 - **Modelos CAD**: Archivos de diseño del sistema (si aplica).
-- **Código Fuente**: Si hay componentes de software en el proyecto.
+- **Código Fuente**: Software aplicado en el proyecto.
 - **Referencias Bibliográficas**: Lista de referencias citadas.

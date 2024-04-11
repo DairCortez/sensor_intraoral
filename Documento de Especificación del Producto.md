@@ -1,4 +1,4 @@
-# Documento de Especificación del Producto
+# Especificaciones del Producto
 
 ## Introducción
 El presente documento describe el sistema sensor intraoral desarrollado para el monitoreo continuo de pH, temperatura y concentración de calcio en saliva artificial. El sistema tiene como objetivo principal proporcionar una herramienta precisa y confiable para la evaluación de la salud bucal y el diagnóstico temprano de condiciones asociadas, como la erosión dental.

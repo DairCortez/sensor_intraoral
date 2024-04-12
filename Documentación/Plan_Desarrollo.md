@@ -12,7 +12,7 @@ El objetivo de este plan es establecer un cronograma de actividades y asignar re
 - **Semana 7-8:** Desarrollo del prototipo del sensor intraoral.
 - **Semana 9-10:** Pruebas preliminares del prototipo y ajustes.
 
-### Fase 2: Pruebas y Validación
+### [Fase 2: Pruebas y Validación](Fase2_Pruebas_y_Validación.md)
 - **Semana 11-12:** Pruebas de calibración del sensor de pH.
 - **Semana 13-14:** Pruebas de precisión y exactitud del sensor de temperatura.
 - **Semana 15-16:** Pruebas de detección de iones de calcio y calibración.

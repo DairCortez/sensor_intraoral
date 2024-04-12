@@ -16,12 +16,12 @@ Este proyecto se está realizando en la Universidad Peruana Cayetano Heredia, es
 La saliva es una secreción exocrina de las glándulas salivales con utilidad diagnóstica para detectar enfermedades sistémicas. Este proyecto tiene como objetivo validar un sistema intraoral para monitoreo continuo de pH, temperatura y concentración de calcio en saliva artificial. Se utilizará la metodología VDI 2225 para el desarrollo del dispositivo, el cual estará basado en tecnología ISFET. Se realizarán pruebas para determinar la precisión y exactitud del sistema en la medición de pH, temperatura y concentración de calcio a diferentes valores y condiciones.
 
 ## Contenido del Repositorio
-- **Especificaciones del Producto**: Descripción detallada del sistema y sus objetivos.
-- **Lista de Requerimientos**: Requisitos funcionales y no funcionales del sistema.
-- **Estado del Arte**: Revisión de la literatura y tecnologías relacionadas.
-- **Plan de Desarrollo**: Cronograma de actividades y recursos.
-- **Documentación Técnica**: Detalles del diseño y funcionamiento del sistema.
-- **Resultados de Pruebas y Validación**: Informes y datos obtenidos durante las pruebas.
-- **Modelos CAD**: Archivos de diseño del sistema (si aplica).
-- **Código Fuente**: Software aplicado en el proyecto.
-- **Referencias Bibliográficas**: Lista de referencias citadas.
+- [Especificaciones del Producto](Especificacion_Producto.md): Descripción detallada del sistema y sus objetivos.
+- [Lista de Requerimientos](Lista_Requerimientos.md): Requisitos funcionales y no funcionales del sistema.
+- [Estado del Arte](Estado_Arte.md): Revisión de la literatura y tecnologías relacionadas.
+- [Plan de Desarrollo](Plan_Desarrollo.md): Cronograma de actividades y recursos.
+- [Documentación Técnica](Documentacion_Tecnica.md): Detalles del diseño y funcionamiento del sistema.
+- [Resultados de Pruebas y Validación](Resultados_Pruebas_Validacion.md): Informes y datos obtenidos durante las pruebas.
+- [Modelos CAD](Modelos_CAD.md): Archivos de diseño del sistema (si aplica).
+- [Código Fuente](Codigo_Fuente.md): Software aplicado en el proyecto.
+- [Referencias Bibliográficas](Referencias_Bibliograficas.md): Lista de referencias citadas.

@@ -35,6 +35,3 @@ El sistema constará de los siguientes componentes principales:
 
 ## Plan de Validación
 Se realizarán pruebas de laboratorio para validar el funcionamiento del sistema en condiciones controladas. Las pruebas incluirán la comparación de las mediciones del sistema con estándares de referencia y la evaluación de su precisión y exactitud.
-
-## Conclusiones
-El sistema sensor intraoral representa una herramienta innovadora para el monitoreo continuo de parámetros clave en la saliva artificial. Su diseño y funcionamiento están orientados a proporcionar información relevante para el diagnóstico y tratamiento de condiciones bucales, contribuyendo así a la mejora de la salud oral de los usuarios.

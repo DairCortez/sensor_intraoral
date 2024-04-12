@@ -9,7 +9,7 @@ Este proyecto se está realizando en la Universidad Peruana Cayetano Heredia, es
 - Mg. Leyla Delgado Cotrina – Docente DACE
 - Mg. Jorge Nelson Trevejo Pinedo – Docente DAMCIBUM
 - Mg. Ing. Paulo Camilo Alberto Vela Anton – Facultad de Ciencias e Ingeniería
-- Héctor Dair Alegria Cortez - Pasante Laboratorio de Ingeniería Biomédica
+- Héctor Dair Alegria Cortez - Pasante LABIB
 
 ---
 

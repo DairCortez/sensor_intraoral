@@ -23,6 +23,6 @@ La saliva es una secreción exocrina de las glándulas salivales con utilidad di
 - [Plan de Desarrollo](Documentación/Plan_Desarrollo.md): Cronograma de actividades y recursos.
 - [Documentación Técnica](Documentación/Documentacion_Tecnica.md): Detalles del diseño y funcionamiento del sistema.
 - [Resultados de Pruebas y Validación](Documentación/Resultados_Pruebas_Validacion.md): Informes y datos obtenidos durante las pruebas.
-- [Modelos CAD](Documentación/Modelos_CAD.md): Archivos de diseño del sistema (si aplica).
+- [Modelos CAD](Documentación/Modelos_CAD.md): Archivos de diseño del sistema.
 - [Código Fuente](Documentación/Codigo_Fuente.md): Software aplicado en el proyecto.
 - [Referencias Bibliográficas](Documentación/Referencias_Bibliograficas.md): Lista de referencias citadas.

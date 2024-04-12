@@ -2,6 +2,10 @@
 
 ¡Bienvenido al repositorio del proyecto de validación del sensor intraoral para monitoreo continuo de pH, temperatura y concentración de calcio en saliva artificial! Aquí encontrarás toda la información relacionada con el desarrollo y los resultados de este proyecto.
 
+![Sensor de Referencia](images/sensor_reference_1.png)
+*Fig. 1. Representación genérica del dispositivo inalámbrico intraoral de monitoreo*
+Fuente: [Nombre del sitio web o autor]
+
 Este proyecto se está realizando en la Universidad Peruana Cayetano Heredia, específicamente en las Facultades de Medicina, de Estomatología y de Enfermería, durante el año 2024.
 
 ### Autores:

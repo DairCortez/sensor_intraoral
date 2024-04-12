@@ -6,7 +6,7 @@
   <img src="images/sensor_reference_1.png" alt="Sensor de Referencia">
 </p>
 <p align="center" style="margin-top: -10px;"><i>Fig. 1. Representación genérica del dispositivo inalámbrico intraoral de monitoreo</i></p>
-<p align="center"><sub style="margin-top: -5px;">Fuente: Lee et al., "Wireless, intraoral hybrid electronics for real-time quantification of sodium intake toward hypertension management."</i></sub></p>
+<p align="center"><sub style="margin-top: -10px;"><i>Fuente: Lee et al., "Wireless, intraoral hybrid electronics for real-time quantification of sodium intake toward hypertension management."</i></sub></p>
 
 Este proyecto se está realizando en la Universidad Peruana Cayetano Heredia, específicamente en las Facultades de Medicina, de Estomatología y de Enfermería, durante el año 2024.
 

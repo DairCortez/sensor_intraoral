@@ -10,7 +10,23 @@
 
 Este proyecto se está realizando en la Universidad Peruana Cayetano Heredia, específicamente en las Facultades de Medicina, de Estomatología y de Enfermería, durante el año 2024.
 
+<p align="center">
+  <img src="images/facu_medicina.png" alt="Facultad de Medicina" style="height:200px;">
+</p>
+<p align="center"><i>Fig. 2. Facultad de Medicina</i></p>
+<p align="center"><sub><i>Fuente: Web UPCH (https://cayetano.edu.pe/)</i></sub></p>
 
+<p align="center">
+  <img src="images/facu_estomatologia.png" alt="Facultad de Estomatología" style="height:200px;">
+</p>
+<p align="center"><i>Fig. 3. Facultad de Estomatología</i></p>
+<p align="center"><sub><i>Fuente: Web UPCH (https://cayetano.edu.pe/)</i></sub></p>
+
+<p align="center">
+  <img src="images/facu_enfermeria.png" alt="Facultad de Enfermería" style="height:200px;">
+</p>
+<p align="center"><i>Fig. 4. Facultad de Enfermería</i></p>
+<p align="center"><sub><i>Fuente: Web UPCH (https://cayetano.edu.pe/)</i></sub></p>
 
 ### Autores:
 - CD Juan Jairo Pinedo Portugal – Estudiante Maestría en Estomatología
